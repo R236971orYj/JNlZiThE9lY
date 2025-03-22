@@ -7,4 +7,3 @@ extend-ignore =
     H306
 # line length is intentionally set to 80 here because black uses Bugbear
 # See https://github.com/psf/black/blob/master/docs/the_black_code_style.md#line-length for more details
-max-line-length = 80
