@@ -6,7 +6,6 @@ chat: { auto_reply: true }
 reviews:
   profile: chill
   high_level_summary: true
-
   poem: false
 
   collapse_walkthrough: true
